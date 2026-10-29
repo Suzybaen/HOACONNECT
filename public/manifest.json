@@ -1,0 +1,57 @@
+{
+    "name": "HOAConnect \u2014 Community Management",
+    "short_name": "HOAConnect",
+    "description": "All-in-one HOA platform for waste collection, dues payments, community reporting, and announcements.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ecfeff",
+    "theme_color": "#0891b2",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "lang": "en",
+    "categories": [
+        "utilities",
+        "productivity"
+    ],
+    "icons": [
+        {
+            "src": "/assets/images/HOA.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/images/HOA.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [],
+    "shortcuts": [
+        {
+            "name": "Homeowner Dashboard",
+            "short_name": "My Home",
+            "description": "View your homeowner dashboard",
+            "url": "/homeowner-dashboard",
+            "icons": [
+                {
+                    "src": "/assets/images/HOA.jpg",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Pay Dues",
+            "short_name": "Pay",
+            "description": "Pay your HOA dues",
+            "url": "/payment-history",
+            "icons": [
+                {
+                    "src": "/assets/images/HOA.jpg",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ]
+}

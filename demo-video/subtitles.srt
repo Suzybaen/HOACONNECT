@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:08,900
+Still managing your HOA with chats, spreadsheets, and manual reminders? Meet HOAConnect.
+
+2
+00:00:09,000 --> 00:00:17,900
+HOAConnect brings payments, announcements, waste collection, reports, and homeowners into one simple platform.
+
+3
+00:00:18,000 --> 00:00:26,900
+Each user gets the right experience: homeowners, collectors, and administrators all have their own dashboard.
+
+4
+00:00:27,000 --> 00:00:35,900
+Homeowners can see dues, amount paid, announcements, property details, and the next collection schedule at a glance.
+
+5
+00:00:36,000 --> 00:00:44,900
+Smart notifications keep the community informed about trash collection, billing reminders, and important updates.
+
+6
+00:00:45,000 --> 00:00:53,900
+Payment history is clear, searchable, and easy to understand, with paid, unpaid, and overdue records in one place.
+
+7
+00:00:54,000 --> 00:01:02,900
+Announcements are organized by urgency, billing, and general updates, so homeowners never miss what matters.
+
+8
+00:01:03,000 --> 00:01:11,900
+Residents can submit and track reports, including missed collection, road damage, and community concerns.
+
+9
+00:01:12,000 --> 00:01:20,900
+Collectors start the day with a live overview of confirmed households, completed stops, route progress, and urgent requests.
+
+10
+00:01:21,000 --> 00:01:29,900
+The household list shows who is ready, who is pending, and which stop needs action next.
+
+11
+00:01:30,000 --> 00:01:38,900
+Route maps help collectors move through the subdivision with fewer missed stops and better visibility.
+
+12
+00:01:39,000 --> 00:01:47,900
+Urgent pickup requests can be reviewed, approved, declined, and added to today's route.
+
+13
+00:01:48,000 --> 00:01:56,900
+Completed collections are tracked in real time, giving the team a clean record of finished stops.
+
+14
+00:01:57,000 --> 00:02:05,900
+Admins get a full operating dashboard: households, payment compliance, participation, reports, overdue accounts, and monthly collections.
+
+15
+00:02:06,000 --> 00:02:14,900
+Analytics show collection readiness, payment health, and performance trends for better community decisions.
+
+16
+00:02:15,000 --> 00:02:23,900
+Payment management helps administrators monitor paid, unpaid, and overdue accounts without manual spreadsheets.
+
+17
+00:02:24,000 --> 00:02:32,900
+Waste collection schedules and readiness confirmations are managed from one HOA-wide view.
+
+18
+00:02:33,000 --> 00:02:41,900
+Reports are prioritized by status and severity, helping admins resolve issues faster.
+
+19
+00:02:42,000 --> 00:02:50,900
+Admins can post announcements and notify all homeowners from one simple composer.
+
+20
+00:02:51,000 --> 00:02:59,900
+Household records show ownership, contacts, zones, occupancy, and payment readiness in a structured table.
+
+21
+00:03:00,000 --> 00:03:08,900
+Subscription, usage, billing history, and plan management are visible inside the admin billing screen.
+
+22
+00:03:09,000 --> 00:03:17,900
+HOAConnect: manage your community, track payments, coordinate collections, and stay connected. Try before purchase.
+
